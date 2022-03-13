@@ -1,2 +1,3 @@
 # exercises
-Basic Exercise
+Basic Exercise Python, SQL
+
